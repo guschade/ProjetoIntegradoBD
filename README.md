@@ -2,7 +2,7 @@
 
 Projeto integrado com as materias Construção de Software para WEB, Design e Desenvolvimento de Banco de dados, Experiencia e interface com o usuario, tendo a proposta de criar um site com o tema "UNIFORTES".
 
-| Professores | Matéria |
+| Professor | Matéria |
 | --- | --- |
 | Abrantes Araújo Silva Filho | **Design e Desenvolvimento de Banco de dados** |
 
